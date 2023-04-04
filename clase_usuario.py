@@ -4,9 +4,11 @@ class Usuario():
         self.fec_nac=fec_nac
         self.mail=mail
 
-    def ingreso_datos():
+    def ingreso_datos(self):
+        self.nombre="isa"
 
 
-        
+
+
 
 
