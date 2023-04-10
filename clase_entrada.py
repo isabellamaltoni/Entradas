@@ -6,9 +6,3 @@ class Usuario():
 
     def ingreso_datos(self):
         self.nombre="isa"
-
-
-
-
-
-
